@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1490859864 source:c:\users\nico\documents\programacion-utn\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1490857132 c:\users\nico\documents\programacion-utn\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+
+1490861207 source:c:\users\nico\documents\programacion-utn\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491479387 source:c:\users\nico\documents\programacion-utn\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491479387 c:\users\nico\documents\programacion-utn\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+
+1491530064 source:c:\users\nico\documents\programacion-utn\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
