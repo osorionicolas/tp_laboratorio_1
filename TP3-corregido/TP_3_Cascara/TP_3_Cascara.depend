@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1496507140 source:c:\users\usuario\desktop\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1496507142 .h"
+
+1496505963 c:\users\usuario\desktop\tp3\tp_3_cascara\funciones.h
+
+1496507140 source:c:\users\usuario\desktop\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1496392104 source:f:\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1496445834 f:\tp3\tp_3_cascara\funciones.h
+
+1496470384 source:f:\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1498752672 source:d:\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1498747732 d:\tp3\tp_3_cascara\funciones.h
+
+1498752476 source:d:\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1496510030 source:i:\tp3\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1496507848 i:\tp3\tp_3_cascara\funciones.h
+
+1496507142 source:i:\tp3\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1496510066 source:/media/alumno/D0E6-29F5/TP3/TP_3_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1496507848 /media/alumno/D0E6-29F5/TP3/TP_3_Cascara/funciones.h
+
+1496507142 source:/media/alumno/D0E6-29F5/TP3/TP_3_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
